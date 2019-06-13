@@ -7,7 +7,7 @@ package asignacion_memoria;
 
 /**
  *
- * @author Andres Wilches
+ * @author OSCAR, Santiago
  *
  */
 public class Main {
