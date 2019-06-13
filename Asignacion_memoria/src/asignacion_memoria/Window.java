@@ -23,7 +23,7 @@ import java.awt.SystemColor;
 
 /**
  *
- * @author Sergio Ramirez
+ * @author OSCAR, Santiago
  */
 public class Window extends JFrame implements ActionListener {
 
